@@ -6,11 +6,16 @@ export one or more function on index.js
 3. fill in username
 4. password
 5. email
-
 6. npm publish
 
-7. To install on future apps npm i lion-lib
+
+If add something to our package we need to update the version number.
+ - use semantic versioning
+ - npm publish
+
+
+To install on future apps npm i lion-lib
 
 
 
-If you have an npm account npm login
+* If you have an npm account use command npm login instead of adduser
